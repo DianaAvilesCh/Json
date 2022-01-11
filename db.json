@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "usuario": "Paola",
+            "contraseña": 123456,
+            "Opciones": {
+                "opcion 1": "Viajes",
+                "opcion 2": "Hola",
+                "opcion 3": "que hace"
+            }
+        },
+        {
+            "usuario": "Diana",
+            "contraseña": 85319812,
+            "Opciones": {
+                "opcion 1": "Zombiecito",
+                "opcion 2": "Hola",
+                "opcion 3": "que hace"
+            }
+        }
+    ]
+}
