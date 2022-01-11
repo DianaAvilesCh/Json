@@ -1,6 +1,7 @@
 {
     "usuarios": [
         {
+            "id":1,
             "usuario": "Paola",
             "contraseña": 123456,
             "Opciones": {
@@ -10,6 +11,7 @@
             }
         },
         {
+            "id":2,
             "usuario": "Diana",
             "contraseña": 85319812,
             "Opciones": {
