@@ -13,11 +13,13 @@
     ],
     "opciones": [
         {
+            "id":1,
             "opcion 1": "Viajes",
             "opcion 2": "Hola",
             "opcion 3": "que hace"
         },
         {
+            "id":2,
             "opcion 1": "Zombiecito",
             "opcion 2": "Hola",
             "opcion 3": "que hace"
