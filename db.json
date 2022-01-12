@@ -1,24 +1,26 @@
 {
     "usuarios": [
         {
-            "id":1,
+            "id": 1,
             "usuario": "Paola",
-            "contraseña": 123456,
-            "Opciones": {
-                "opcion 1": "Viajes",
-                "opcion 2": "Hola",
-                "opcion 3": "que hace"
-            }
+            "contraseña": 123456
         },
         {
-            "id":2,
+            "id": 2,
             "usuario": "Diana",
-            "contraseña": 85319812,
-            "Opciones": {
-                "opcion 1": "Zombiecito",
-                "opcion 2": "Hola",
-                "opcion 3": "que hace"
-            }
+            "contraseña": 85319812
+        }
+    ],
+    "opciones": [
+        {
+            "opcion 1": "Viajes",
+            "opcion 2": "Hola",
+            "opcion 3": "que hace"
+        },
+        {
+            "opcion 1": "Zombiecito",
+            "opcion 2": "Hola",
+            "opcion 3": "que hace"
         }
     ]
 }
