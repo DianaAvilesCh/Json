@@ -12,9 +12,6 @@
                 },
                 {
                     "id": 2
-                },
-                {
-                    "id": 3
                 }
             ]
         },
@@ -25,6 +22,9 @@
             "img": "https://img.freepik.com/foto-gratis/retrato-hermoso-mujer-joven-posicion-pared-gris_231208-10760.jpg?size=626&ext=jpg",
             "rol": "A",
             "opciones": [
+                {
+                    "id": 1
+                },
                 {
                     "id": 2
                 },
@@ -44,7 +44,7 @@
                     "id": 1
                 },
                 {
-                    "id": 3
+                    "id": 2
                 }
             ]
         }
