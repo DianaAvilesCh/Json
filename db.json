@@ -4,17 +4,17 @@
             "nombre": "Paola Zambrano",
             "usuario": "paola",
             "contraseña": 123456,
-            "img":"https://www.marketingdirecto.com/wp-content/uploads/2020/03/dia-de-la-mujer-monica-moro.png",
-            "rol":"U",
+            "img": "https://www.marketingdirecto.com/wp-content/uploads/2020/03/dia-de-la-mujer-monica-moro.png",
+            "rol": "U",
             "opciones": [
                 {
-                    "id":1
+                    "id": 1
                 },
                 {
-                    "id":2
+                    "id": 2
                 },
                 {
-                    "id":3
+                    "id": 3
                 }
             ]
         },
@@ -22,14 +22,14 @@
             "nombre": "Diana Aviles",
             "usuario": "diana",
             "contraseña": 85319812,
-            "img":"https://img.freepik.com/foto-gratis/retrato-hermoso-mujer-joven-posicion-pared-gris_231208-10760.jpg?size=626&ext=jpg",
-            "rol":"A",
+            "img": "https://img.freepik.com/foto-gratis/retrato-hermoso-mujer-joven-posicion-pared-gris_231208-10760.jpg?size=626&ext=jpg",
+            "rol": "A",
             "opciones": [
                 {
-                    "id":2
+                    "id": 2
                 },
                 {
-                    "id":3
+                    "id": 3
                 }
             ]
         },
@@ -37,14 +37,14 @@
             "nombre": "Carlos Villacis",
             "usuario": "carlos",
             "contraseña": 123456,
-            "img":"ohttps://www.ecestaticos.com/imagestatic/clipping/132/556/1325565fd0653cf30797b2540887263d/diez-cosas-que-puede-hacer-un-hombre-para-mejorar-su-aspecto-y-ser-mas-atractivo.jpg",
-            "rol":"U",
+            "img": "ohttps://www.ecestaticos.com/imagestatic/clipping/132/556/1325565fd0653cf30797b2540887263d/diez-cosas-que-puede-hacer-un-hombre-para-mejorar-su-aspecto-y-ser-mas-atractivo.jpg",
+            "rol": "U",
             "opciones": [
                 {
-                    "id":1
+                    "id": 1
                 },
                 {
-                    "id":3
+                    "id": 3
                 }
             ]
         }
